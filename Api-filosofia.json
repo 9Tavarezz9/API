@@ -1,0 +1,117 @@
+[
+	{
+		"grupo": "Nilismo",
+		"cor": "#05a648",
+		"escritores": [
+			{
+				"Nome": "Friedrich Nietzsche",
+				"Pais": "Alemanha",
+				"Obra": "Além do bem e do mal"
+			},
+			{
+				"Nome": "Martin Heidegger",
+				"Pais": "Alemanha",
+				"Obra": "Ser e tempo"	
+			},
+			{
+			
+				"Nome": "Theodor Ludwig Wiesengrund-Adorno",
+				"Pais": "Suiça",
+				"Obra": "Dialética negativa"
+			}
+		]
+	},
+
+
+	{
+		"grupo": "Absurdismo",
+		"cor": "#05499c",
+		"escritores": [
+			{
+				"Nome": "Albert Camus",
+				"Pais": "França",
+				"Obra": "O conto de Sísifo"
+			},
+			{
+				"Nome": "Franz Kafka",
+				"Pais": "Alemanha",
+				"Obra": "Metamorfose"	
+			},
+			{
+				"Nome": "Roland Topor ",
+				"Pais": "França",
+				"Obra": "O inquilino"
+			}
+		]
+	},
+
+
+	{
+		"grupo": "Criticismo",
+		"cor": "#9c5805",
+		"escritores": [
+			{
+				"Nome": "Max Horkheimer",
+				"Pais": "Alemanha",
+				"Obra": "Eclipse da Razão"
+			},
+			{
+				"Nome": "Herbert Marcuse",
+				"Pais": "Alemanha",
+				"Obra": "Ideologia da sociedade industrial"	
+			},
+			{
+				"Nome": "Walter Benjamim",
+				"Pais": "Alemanha",
+				"Obra": "A Obra de Arte na Era de Sua Reprodutibilidade Técnica"
+			}
+		]
+	},
+
+
+	{
+		"grupo": "Existencialismo",
+		"cor": "#369be3",
+		"escritores": [
+			{
+				"Nome": "Jean-Paul Sartre",
+				"Pais": "França",
+				"Obra": "O existencialismo e Humanismo"
+			},
+			{
+				"Nome": "Søren Kierkegaard",
+				"Pais": "Dinamarca",
+				"Obra": "O desespero humano"	
+			},
+			{
+				"Nome": "Simone Lucie-Ernestine-Marie Bertrand de Beauvoir",
+				"Pais": "França",
+				"Obra": "A velhice"
+			}
+		]
+	},
+
+
+	{
+		"grupo": "Materialismo",
+		"cor": "#6c12a3",
+		"escritores": [
+			{
+				"Nome": "Karl Marx ",
+				"Pais": "Alemanha",
+				"Obra": "O capital"
+			},
+			{
+				"Nome": "Friedrich Engels",
+				"Pais": "Alemanha",
+				"Obra": "Manifesto Comunista"	
+			},
+			{
+				"Nome": "Ludwig Feuerbach",
+				"Pais": "Alemanha",
+				"Obra": "A Essência do Cristianismo"
+			}
+		]
+	}
+	
+]
